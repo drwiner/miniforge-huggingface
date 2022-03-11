@@ -15,3 +15,5 @@ Steps to reproduce environment on Mac OS
   pip install git+https://github.com/huggingface/transformers
 
 ```
+
+`pip3 freeze > requirements.txt`
